@@ -1,0 +1,6 @@
+G:\BELAJAR DI MAKERS\c#\firstrun\TokoHPIntan\TokoHPIntan\bin\Debug\TokoHPIntan.exe.config
+G:\BELAJAR DI MAKERS\c#\firstrun\TokoHPIntan\TokoHPIntan\bin\Debug\TokoHPIntan.exe
+G:\BELAJAR DI MAKERS\c#\firstrun\TokoHPIntan\TokoHPIntan\bin\Debug\TokoHPIntan.pdb
+G:\BELAJAR DI MAKERS\c#\firstrun\TokoHPIntan\TokoHPIntan\obj\Debug\TokoHPIntan.exe
+G:\BELAJAR DI MAKERS\c#\firstrun\TokoHPIntan\TokoHPIntan\obj\Debug\TokoHPIntan.pdb
+G:\BELAJAR DI MAKERS\c#\firstrun\TokoHPIntan\TokoHPIntan\obj\Debug\TokoHPIntan.csprojResolveAssemblyReference.cache
